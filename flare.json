@@ -1,0 +1,84 @@
+{
+ "name": "DC Metro",
+ "children": [
+  {
+   "name": "Virginia",
+   "children": [
+    {
+     "name": "Fairfax",
+     "children": [
+      {"name": "French", "size": 3938},
+      {"name": "Italian", "size": 3812},
+      {"name": "Laotian", "size": 6714},
+      {"name": "African Languages", "size": 743},
+     ]
+    },
+    {
+     "name": "Arlington",
+     "children": [
+      {"name": "French", "size": 1000},
+      {"name": "Italian", "size": 2000},
+      {"name": "Laotian", "size": 3000},
+      {"name": "African Languages", "size": 4000},
+     ]
+    },
+    {
+     "name": "Alexandria",
+     "children": [
+      {"name": "French", "size": 4000},
+      {"name": "Italian", "size": 200},
+      {"name": "Laotian", "size": 300},
+      {"name": "African Languages", "size": 400},
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Maryland",
+   "children": [
+     {
+     "name": "Montgomery",
+     "children": [
+      {"name": "French", "size": 600},
+      {"name": "Italian", "size": 700},
+      {"name": "Laotian", "size":800},
+      {"name": "African Languages", "size": 900},
+     ]
+    },
+     {
+     "name": "Prince Georges",
+     "children": [
+      {"name": "French", "size": 800},
+      {"name": "Italian", "size": 900},
+      {"name": "Laotian", "size": 1000},
+      {"name": "African Languages", "size": 743},
+     ]
+    },
+    {
+     "name": "Frederick",
+     "children": [
+      {"name": "French", "size": 3938},
+      {"name": "Italian", "size": 3812},
+      {"name": "Laotian", "size": 6714},
+      {"name": "African Languages", "size": 743},
+     ]
+    },
+   ]
+  },
+  {
+   "name": "District of Columbia",
+   "children": [
+    {
+     "name": "Northwest",
+     "children": [
+     {"name": "French", "size": 6000},
+      {"name": "Italian", "size": 5000},
+      {"name": "Laotian", "size": 4000},
+      {"name": "African Languages", "size": 3000},
+     ]
+    },
+   ]
+  },
+  
+   ]
+  }
